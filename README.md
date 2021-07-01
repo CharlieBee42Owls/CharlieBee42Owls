@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlieBee42Owls
-- 👀 I’m interested in ... developing mobile apps for photographers
-- 🌱 I’m currently learning ... Swift
-- 💞️ I’m looking to collaborate on ... my app.
+- 👀 I’m interested in ... developing mobile apps for photographers, unreal virtual production and video game dev.
+- 🌱 I’m currently learning ... Swift, Git, Unreal Engine
+- 💞️ I’m looking to collaborate on ... my app and virtual production and video game dev.
 - 📫 How to reach me ... 
 
 <!---
